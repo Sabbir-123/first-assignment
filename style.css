@@ -36,3 +36,45 @@ p{
     justify-content: center;
     padding-top: 30px;
 }
+.second-banner p{
+    color: rgb(119, 113, 110);
+}
+
+.tk-option{
+    color: rgb(100, 98, 97);
+    
+}
+.checked{
+    color: rgb(255, 85, 0);
+    border: 2px solid orangered;
+    background-color: rgb(245, 194, 178);
+    
+}
+.tk-option li{
+    display: inline-block;
+    padding: 20px 20px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 10px;
+    border-radius: 5px;
+    
+    
+}
+
+.unckecked{
+    background-color: rgb(245, 241, 241) ; 
+}
+.amount{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    /* padding:8px; */
+    /* padding-left: 50%;
+    padding-right: 50%; */
+    display:block;
+    border:none;
+    border-bottom:1px solid #ccc;
+    width:100%
+}
+input{
+    text-align: center;
+}
